@@ -35,6 +35,8 @@ A modern countdown timer built using HTML, CSS, and JavaScript.
 ### Version 1 (Basic Timer)
 My first timer project supported only a single 1-minute countdown.
 
+https://speed494.github.io/javascript-countdown/
+
 ### Version 2 (Advanced Timer)
 This version includes:
 - Multiple timer presets
